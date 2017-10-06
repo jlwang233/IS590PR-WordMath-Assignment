@@ -1,2 +1,2 @@
-# IS590PR-example
-examples for IS590PR at UIUC iSchool
+# WordMath
+A simple Python Class to demonstrate and experiment with GitHub Classroom, Doctests, and Travis CI
