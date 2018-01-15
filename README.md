@@ -1,9 +1,5 @@
 # IS590PR Assignment	3:		Improving	the	WordMath	class - WordMath
 
-Topics	and	skills	involved:
-• Modifying	others’	code	and	committing changes	to	a	repository.
-• Writing	and	running	Doctests
-
 1. In	calc_operation(),	the	series	of	if	statements	are	mutually	exclusive	possibilities.	Improve	it	by	
 properly	using	“elif”	where	it	makes	sense.
 
